@@ -1,0 +1,18 @@
+{
+	"items":[
+		{
+			"name":"imported box of chocolates",
+			"type":"FOOD",
+			"quantity":1,
+			"price":10.00,
+			"imported":true
+		},
+		{
+			"name":"imported bottle of perfume",
+			"type":"OTHER",
+			"quantity":1,
+			"price":47.50,
+			"imported":true
+		}
+	]
+}

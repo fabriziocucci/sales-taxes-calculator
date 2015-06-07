@@ -1,0 +1,28 @@
+{
+	"purchases":[
+		{
+			"item":{
+				"name":"imported box of chocolates",
+				"type":"FOOD",
+				"quantity":1,
+				"price":10.00,
+				"imported":true
+			},
+			"taxes":0.50,
+			"total":10.50
+		},
+		{
+			"item":{
+				"name":"imported bottle of perfume",
+				"type":"OTHER",
+				"quantity":1,
+				"price":47.50,
+				"imported":true
+			},
+			"taxes":7.15,
+			"total":54.65
+		}
+	],
+	"taxes":7.65,
+	"total":65.15
+}

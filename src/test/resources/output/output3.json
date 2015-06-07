@@ -1,0 +1,50 @@
+{
+	"purchases":[
+		{
+			"item":{
+				"name":"imported bottle of perfume",
+				"type":"OTHER",
+				"quantity":1,
+				"price":27.99,
+				"imported":true
+			},
+			"taxes":4.20,
+			"total":32.19
+		},
+		{
+			"item":{
+				"name":"bottle of perfume",
+				"type":"OTHER",
+				"quantity":1,
+				"price":18.99,
+				"imported":false
+			},
+			"taxes":1.90,
+			"total":20.89
+		},
+		{
+			"item":{
+				"name":"packet of headache pills",
+				"type":"MEDICAL",
+				"quantity":1,
+				"price":9.75,
+				"imported":false
+			},
+			"taxes":0.00,
+			"total":9.75
+		},
+		{
+			"item":{
+				"name":"box of imported chocolates",
+				"type":"FOOD",
+				"quantity":1,
+				"price":11.25,
+				"imported":true
+			},
+			"taxes":0.60,
+			"total":11.85
+		}
+	],
+	"taxes":6.70,
+	"total":74.68
+}

@@ -1,0 +1,39 @@
+{
+	"purchases":[
+		{
+			"item":{
+				"name":"book",
+				"type":"BOOK",
+				"quantity":1,
+				"price":12.49,
+				"imported":false
+			},
+			"taxes":0.00,
+			"total":12.49
+		},
+		{
+			"item":{
+				"name":"music CD",
+				"type":"OTHER",
+				"quantity":1,
+				"price":14.99,
+				"imported":false
+			},
+			"taxes":1.50,
+			"total":16.49
+		},
+		{
+			"item":{
+				"name":"chocolate bar",
+				"type":"FOOD",
+				"quantity":1,
+				"price":0.85,
+				"imported":false
+			},
+			"taxes":0.00,
+			"total":0.85
+		}
+	],
+	"taxes":1.50,
+	"total":29.83
+}
